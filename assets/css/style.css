@@ -372,3 +372,16 @@ div {
   border-radius: 10px;
   margin-left: 10px;
 }
+
+.backhome {
+  position: relative;
+  right: 43%;
+  bottom: 75px;
+  color: white;
+  border-color: white;
+}
+
+.backhome:hover {
+  background-color: #303030;
+  border-color: white;
+}
