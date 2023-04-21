@@ -79,7 +79,7 @@ div {
     rgba(var(--brand-rgb), 0.498),
     rgba(var(--brand-rgb), 0.539)
   );
-  background-image: url(./assets/images/2.jpg);
+  background-image: url(../images/2.jpg);
   opacity: 1;
   background-size: cover;
   background-position: center;
@@ -204,7 +204,7 @@ div {
       rgba(var(--brand-rgb), 0.8),
       rgba(var(--brand-rgb), 0.8)
     ),
-    url(./assets/images/4.jpg);
+    url(../images/4.jpg);
   background-position: center;
   background-size: cover;
   position: absolute;
@@ -227,7 +227,7 @@ div {
 /* Event Display  */
 
 #eventbody {
-  background-image: url(./assets/images/event.avif);
+  background-image: url(../images/ticketeventspicture.jpg);
   background-size: 100% 150%;
   background-repeat: no-repeat;
   background-position: center;
